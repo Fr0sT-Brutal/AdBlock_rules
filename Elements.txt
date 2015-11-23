@@ -1,0 +1,26 @@
+[Adblock Plus 2.0]
+! Title: Fr0sT block list
+! Expires: 4 days (update frequency) 
+! Homepage: https://github.com/Fr0sT-Brutal/AdBlock_rules
+! Licence: free to use
+!
+! Hide huge banner with rules
+forum.sources.ru###ipbwrapper > .rules-wrapper
+forum.sources.ru###top-navigation > tbody > tr > .b-top-nav-banner-wrapper
+! Banner and "other articles" hider
+auto.mail.ru##.p-level > .grid
+auto.mail.ru##.p-level > .js-track_visibility.grid
+auto.mail.ru##.p-level > .js-track_visibility.link-hdr.block_center.block_border_top.block
+auto.mail.ru##.p-level > .layout > .js-module.js-springs > .sticky-springs:nth-of-type(1) > .block_collapse_bottom.block_bg_primary.block
+auto.mail.ru##.p-level > .layout > .js-module.js-springs > .sticky-springs:nth-of-type(1) > .block_separated_top.block_bg_secondary.block
+auto.mail.ru##.p-level > .layout > .js-module.js-springs > .sticky-springs:nth-of-type(1) > .js-module.js-article_track > .block:nth-of-type(1) > .wrapper:nth-of-type(4) > .cols > .js-sidebar.cols__column_sidebar.cols__column_large_14.cols__column_medium_14.cols__column_small_14.cols__column
+! Banner hider
+mail.ru###banner-placeholder
+mail.ru###totop-linker > .js-main.p-main > .p-main__inner > .p-main__inner__resizer > .js-content.p-main__inner__resizer__cont > .js-ovrflw_fix.js-fxd_rght__prnt.js-fxd_cntnt__tbl.c-clearin.p-body > .p-body__right-wrapper > .p-body__right
+mail.ru###totop-linker > .js-module.p-footer
+mail.ru###YaDirectLine
+mail.ru##.g-layout.layout > .js-main.layout__main > .layout__main__inner > .layout__main__inner__resizer > .js-cntnt.layout__main__inner__resizer__cont > .js-ovrflw_fix.js-fxd_rght__prnt.js-fxd_cntnt__tbl.clearin.layout__body > .layout__body__right-wrapper > .js-rightcol.layout__body__right
+mail.ru##.g-layout.layout > .js-module.js-footer.footer
+mail.ru##.layout__promotoolbar
+mail.ru##.p-top-adplate
+mail.ru##.rb_banner

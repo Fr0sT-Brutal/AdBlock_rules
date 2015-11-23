@@ -1,0 +1,10 @@
+/*
+  Hide Yandex direct banner on Mail.ru messages pages
+*/
+
+@-moz-document domain("mail.ru") {
+  div#b-slot_left_direct, div.b-context__item
+  {
+   display:none !important;
+  }
+}

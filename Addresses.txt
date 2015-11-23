@@ -1,0 +1,28 @@
+[Adblock Plus 2.0]
+! Title: Fr0sT ad list
+! Expires: 4 days (update frequency) 
+! Homepage: https://github.com/Fr0sT-Brutal/AdBlock_rules
+! Licence: free to use
+!
+||goodadvert.ru/
+||mg.dt00.net/
+||nnn.novoteka.ru/
+||traf.biz/pop/
+||uuu.ru/
+||googlesyndication.com/
+||liveinternet.ru/
+||googleadservices.com/
+||begun.ru/
+||ucoz.net/ads_w2h.js
+||rambler.ru/top100/
+||an.yandex.ru/
+||cdn.fastclick.net/content/
+||cdnx.tribalfusion.com/media/
+||direct.yandex.ru/
+||imgg.dt00.net/
+||marketgid.com/
+||masterh2.adriver.ru/images/
+||oxn.gerkon.eu/www/
+||rose.ixbt.com/cgi-bin/
+||st.ad.smaclick.com/js/adv_out.js
+||top.mail.ru/
