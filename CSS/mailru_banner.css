@@ -1,9 +1,9 @@
 /*
-  Hide Yandex direct banner on Mail.ru messages pages
+  Hide left banner on Mail.ru messages pages
 */
 
 @-moz-document domain("mail.ru") {
-  div#b-slot_left_direct, div.b-context__item
+  div.b-context__item, .use-mimic #LEGO #b-slot_left_direct, .use-mimic #LEGO #rb-direct-left-slot
   {
    display:none !important;
   }
