@@ -3,7 +3,7 @@
 */
 
 @-moz-document domain("mail.ru") {
-  div.b-context__item, .use-mimic #LEGO #b-slot_left_direct, .use-mimic #LEGO #rb-direct-left-slot
+  div.b-context__item, .use-mimic #LEGO #b-slot_left_direct, .use-mimic #LEGO #rb-direct-left-slot, .p-body__right-wrapper
   {
    display:none !important;
   }
