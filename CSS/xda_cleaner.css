@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/* Name: forum.xda-developers.com cleaner */
+/*
+   - Header not fixed
+   - Navigation removed
+   - Side panel removed
+   - Thread occupies all page width
+   - Social crap in thread and post headers and footer removed
+*/
+
+#header
+{ position: static !important }
+
+.page
+{ margin-right: 20px !important }
+
+#navigation, #sidepanel, .postbit-social, .showthread-social, .w-social
+{ display: none !important }
+
+#showthread-topsearch
+{position: absolute !important; display: inline !important; }
+
+.showthread-abovebar-controls
+{ margin-top: 0 !important }
